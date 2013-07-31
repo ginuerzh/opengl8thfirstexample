@@ -17,3 +17,4 @@ OpenGL extensions:
 john@zerofluid:~/Downloads/openglfirst/another/opengl8thfirstexample$ uname -a
 Linux zerofluid 3.8.0-26-generic #38-Ubuntu SMP Mon Jun 17 21:43:33 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
 
+Someone on StackOverflow sent me triso.cpp as a one file version of the introductory program. Whoever you are: thank you very much again. I really appreciate it.
